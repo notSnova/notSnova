@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- notSnova dev card-->
-<a href="https://app.daily.dev/notSnova"><img src="https://api.daily.dev/devcards/8db1b52d90f542ab8bd6996b52563810.png?r=h0w" width="400" alt="Snova's Dev Card"/></a>
+<a href="https://app.daily.dev/notSnova"><img src="https://api.daily.dev/devcards/8db1b52d90f542ab8bd6996b52563810.png?r=2qj" width="400" alt="Snova's Dev Card"/></a>
